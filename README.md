@@ -207,8 +207,8 @@ python3 main.py
 Students learn:
 
 ```python
-name = "Denis"
-age = 27
+name = "Doe"
+age = 45
 average = 90.5
 is_active = True
 ```
